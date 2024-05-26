@@ -21,5 +21,6 @@ mamba create -n mlks \
     kornia \
     jupyterlab \
     ipywidgets \
+    onnx \
     -c pytorch -c nvidia -c conda-forge
 ```
